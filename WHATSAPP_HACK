@@ -1,0 +1,8 @@
+pkg update && pkg upgrade 
+pkg install git 
+pkg install python2 
+git clone https://github.com/Bl4ckDr460n/HxWhatsApp.git 
+ls 
+cd HxWhatsApp 
+ls 
+python2 HxWhatsApp.py
